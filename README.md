@@ -1,5 +1,3 @@
-<!-- header image -->
-<a href="#"><img width="100%" height="auto" src="header.png" height="175px"/></a>
 
 
 <!--intRO name  -->
